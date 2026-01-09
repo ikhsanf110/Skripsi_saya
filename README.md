@@ -1,2 +1,3 @@
-# Tokol
-Toko Online DistroIT dengan PHP native, MySQLi dan Bootstrap 3
+# Toko Ol
+Online Shop  dengan PHP native, MySQLi dan Bootstrap 3
+
